@@ -8,3 +8,6 @@ npm install node
 
 run </br>
 node index.js
+
+License </br>
+MIT https://choosealicense.com/licenses/mit/#
