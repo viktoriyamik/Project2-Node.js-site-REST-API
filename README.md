@@ -9,7 +9,7 @@ https://github.com/viktoriyamik/Project2-Node.js-site-REST-API.git </br>
 
 Render </br>
 GET: https://project2-node-js-site-rest-api.onrender.com/api/getall </br>
-GET :id: https://project2-node-js-site-rest-api.onrender.com/api/63ed0984a3ab9d19c541d577 </br>
+GET:id: https://project2-node-js-site-rest-api.onrender.com/api/63ed0984a3ab9d19c541d577 </br>
 POST: https://project2-node-js-site-rest-api.onrender.com/api/add </br>
 PATCH: https://project2-node-js-site-rest-api.onrender.com/api/update/63ed0984a3ab9d19c541d577 </br>
 DELETE: https://project2-node-js-site-rest-api.onrender.com/api/delete/63ed0984a3ab9d19c541d577 </br>
